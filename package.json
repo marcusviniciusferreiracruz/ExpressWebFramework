@@ -19,5 +19,8 @@
   "homepage": "https://github.com/marcusviniciusferreiracruz/ExpressWebFramework#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1"
   }
 }
