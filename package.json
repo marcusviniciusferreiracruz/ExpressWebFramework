@@ -1,0 +1,20 @@
+{
+  "name": "ExpressWebFramework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusviniciusferreiracruz/ExpressWebFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcusviniciusferreiracruz/ExpressWebFramework/issues"
+  },
+  "homepage": "https://github.com/marcusviniciusferreiracruz/ExpressWebFramework#readme"
+}
