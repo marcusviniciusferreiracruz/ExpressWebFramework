@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marcusviniciusferreiracruz/ExpressWebFramework/issues"
   },
-  "homepage": "https://github.com/marcusviniciusferreiracruz/ExpressWebFramework#readme"
+  "homepage": "https://github.com/marcusviniciusferreiracruz/ExpressWebFramework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
